@@ -1,3 +1,3 @@
-**Welcome to my current portfolio!**
+**Welcome to my current portfolio**
 
-Everything here is still WIP and not 100% stable; use at your own risk!
+Everything here is still WIP and is not guaranteed to be stable; use at your own risk!
